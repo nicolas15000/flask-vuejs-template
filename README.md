@@ -7,6 +7,11 @@ _Flask + Vue.js Web Application Template_
 
 ![Vue Logo](/docs/vue-logo.png "Vue Logo") ![Flask Logo](/docs/flask-logo.png "Flask Logo")
 
+## Nicolas add :
+Downgrade this
+https://stackoverflow.com/questions/60156202/flask-app-wont-launch-importerror-cannot-import-name-cached-property-from-w
+
+
 ## Features
 * Minimal Flask 1.0 App
 * [Flask-RestPlus](http://flask-restplus.readthedocs.io) API with class-based secure resource routing
